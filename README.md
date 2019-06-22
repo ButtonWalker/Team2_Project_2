@@ -119,13 +119,10 @@ From Project Visualization
    Getting the two custom icons to rendered on the same map overlay using two independent dataset
 
 From General Visualization
-
- 	While data visualizations can be generated in real-time, they do not provide any explanations. 
- 	Different users confronted with the same data visualization may not necessarily draw the same conclusion but interpret it differently,   depending on their previous experiences and particular level of expertise.
- 	Graphics are great for conveying simple ideas quickly; however, at times they might not be enough and are not able to express a         complex situation. Sometimes the visualization doesn’t tell the full or underlying stories and as such, language is required to make     sure the end user really understands.
-
-
-
+  While data visualizations can be generated in real-time, they do not provide any explanations. 
+  Different users confronted with the same data visualization may not necessarily draw the same conclusion but interpret it differently,   depending on their previous experiences and particular level of expertise.  
+  Graphics are great for conveying simple ideas quickly; however, at times they might not be enough and are not able to express a         complex situation. Sometimes the visualization doesn’t tell the full or underlying stories and as such, language is required to make     sure the end user really understands.
+ 	
 
 ## Authors
 
