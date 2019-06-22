@@ -33,6 +33,7 @@ function updatePlotly(newdata) {
 
 // Get new data whenever the dropdown selection changes
 function getData(dataset) {
+  console.log("parameter is selected", dataset);
   if (dataset === 'defaultvalue') {
     var datause = [0, 0, 0];
     updatePlotly(datause);
@@ -41,7 +42,9 @@ function getData(dataset) {
   else {
     para_name = dataset;
     var datause = [];
-    d3.json("/static/dataset/citydata.json", function(data) {
+    console.log("next step should be getting citydata.json");
+    d3.json("static/dataset/citydata.json", function(data) {
+      console.log("newdata is ready");
       console.log("newdata", data[dataset]);
       datause.push(data[dataset]['Dallas']);
       datause.push(data[dataset]['Jackson']);
@@ -72,7 +75,7 @@ function buildCharts(sample) {
       break;
   }
   console.log('selected city: ', usecity);
-  d3.json("/static/dataset/alldata.json", function(data) {
+  d3.json("static/dataset/alldata.json", function(data) {
     console.log('data: ', data)
     // console.log("parameter: ", para_name);
     console.log("bubbledata", data[para_name]);
