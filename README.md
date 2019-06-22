@@ -30,15 +30,18 @@ The objective of Project 2 is to use the selected data for the three selected ci
  
 ### Project Requirements
 1.	Visualization had to include:
+
 a.	Python Flask – powered restful API
 b.	HTML/CSS
 c.	JavaScript
 d.	At least one database (SQL, Mongo DB, SQLite, etc)
+
 2.	Tracks
 a.	Use of a custom D3.js (nonstandard graph or chart)
 b.	Combination of web scraping and Leaflet or Plotly
 c.	Dashboard of multiple charts that update from the same data
 d.	Thick server that performs multiple manipulations of data in a database prior to visualization
+
 3.	Include at least one JS Library that was not covered in class
 4.	Data set with at least 100 records
 5.	Include some level of user driven interactions
@@ -113,3 +116,9 @@ Inspiration
 * Kaggle
 etc
 ```
+Special thanks go out to KaRi for going over and beyond to bring this project to completion.  KaRi was the heavy hitter and without his dedication, determination, drive and coding skills this would not have been possible.  Thanks go out to Hao for whom this project is dedicated as she leaves us to relocate to San Francisco.  Hao was the master behind the extraction, transforming and loading of the data.  Jason lent his expertise to the front end side and provides the images to go along.  
+
+Thanks to the Graham, Alexander and Guy for all the help in getting the codes to work and for your valuable inputs.
+
+THANKS TEAM!!
+
