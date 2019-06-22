@@ -4,8 +4,9 @@
 ## Table of Contents
 
 - [Team 2 Project 2](#Team-2-Project-2)
+    - [Introduction](#Introduction)
     - [Purpose of the Analysis](#Purpose-of-the-Analysis)
-    - [Hypothesis Testing](#Hypothesis-Testing)
+    - [Project Requirements](#Project-Requirements)
     - [Key Documents](#Key-Documents)
     - [Findings](#Findings)
     - [Over All Map](#Over-All-Map)
@@ -19,17 +20,33 @@
 
 # Team 2 Project 2
 
-Team 3 picked a project to uncover patterns in parking activity around the city of Los Angeles. The first purpose was to examine a relationship between the makes of vehicles and number of parking citations. The second purpose was to examine a relationship between the colors of vehicles and parking citations.
+### Introduction
+While the decision to relocate and concur a new city is exciting, it can also be a daunting prospect with so many factors to consider when determining where to live.  The timing of this project is spot on as one of our team members is in the process of finding a new city to relocate and call home. As a team we decided to offer our help by developing a location-based analytics app that will help alleviate the burden by allowing the user to eliminate the guesswork and make data driven decisions based on customizable criteria that visualized the results in an interactive dashboard.
+
+In parallel, we will be telling a tale of three very different cities.  Our goal is to provide meaningful insights and highlight the underlying data which contributes to what is expected to be a stark contrast between the selected cities of San Francisco, Dallas, and Jackson. 
 
 ### Purpose of the Analysis
-
-We have two main purposes of the analysis:
-
-* Clean Up!!!!!!!!!!!
+The objective of Project 2 is to use the selected data for the three selected cities (Dallas, Jackson and San Francisco) to tell a story through data visualizations of the users’ interaction exploring the data themselves. Our purpose is to allow the user to select a city of interest (move to city) and choose from a list of given criteria that will return the results in a graphical visualization of the comparative underlying data. Through this interactive experience the user will be able to make a decision on the best city to relocate based on their chosen criteria. 
  
-### Hypothesis Testing
-* Purpose One
-   * Clean Up!!!!!!!!!!!
+### Project Requirements
+1. Visualization had to include:
+
+a.	Python Flask – powered restful API
+b.	HTML/CSS
+c.	JavaScript
+d.	At least one database (SQL, Mongo DB, SQLite, etc)
+
+2.	Tracks
+a.	Use of a custom D3.js (nonstandard graph or chart)
+b.	Combination of web scraping and Leaflet or Plotly
+c.	Dashboard of multiple charts that update from the same data
+d.	Thick server that performs multiple manipulations of data in a database prior to visualization
+
+3.	Include at least one JS Library that was not covered in class
+4.	Data set with at least 100 records
+5.	Include some level of user driven interactions
+6.	Final visualization of at least three views
+
 
 ### Key Documents
 
@@ -99,3 +116,9 @@ Inspiration
 * Kaggle
 etc
 ```
+Special thanks go out to KaRi for going over and beyond to bring this project to completion.  KaRi was the heavy hitter and without his dedication, determination, drive and coding skills this would not have been possible.  Thanks go out to Hao for whom this project is dedicated as she leaves us to relocate to San Francisco.  Hao was the master behind the extraction, transforming and loading of the data.  Jason lent his expertise to the front end side and provides the images to go along.  
+
+Thanks to the Graham, Alexander and Guy for all the help in getting the codes to work and for your valuable inputs.
+
+THANKS TEAM!!
+
