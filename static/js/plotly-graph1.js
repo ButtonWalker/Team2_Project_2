@@ -43,7 +43,8 @@ function getData(dataset) {
     para_name = dataset;
     var datause = [];
     console.log("next step should be getting citydata.json");
-    d3.json("/static/dataset/citydata.json", function(data) {
+    d3.json("static/dataset/citydata.json", function(data) {
+      console.log("newdata is ready");
       console.log("newdata", data[dataset]);
       datause.push(data[dataset]['Dallas']);
       datause.push(data[dataset]['Jackson']);
@@ -74,7 +75,7 @@ function buildCharts(sample) {
       break;
   }
   console.log('selected city: ', usecity);
-  d3.json("/static/dataset/alldata.json", function(data) {
+  d3.json("static/dataset/alldata.json", function(data) {
     console.log('data: ', data)
     // console.log("parameter: ", para_name);
     console.log("bubbledata", data[para_name]);
