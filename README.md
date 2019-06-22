@@ -3,18 +3,19 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Team 3 Project 1](#team-3-project-1)
-* [Purpose of the Analysis](#purpose-of-the-analysis)
-* [Hypothesis Testing](#hypothesis-testing)
-* [Key Documents](#key-documents)
-* [Findings](#findings)
-* [Citation Location Clusters](#citation-location-cluster)
-* [Restaurant Location Clusters](#restaurant-location-cluster)
-* [Coding Style](#coding-style)
-* [API Calls](#api-calls)
-* [Coding Documentation](#coding-documentation)
-* [Authors](#authors)
-* [Acknowledgments](#acknowledgments)
+- [Team 2 Project 2](#Team-2-Project-2)
+    - [Purpose of the Analysis](#Purpose-of-the-Analysis)
+    - [Hypothesis Testing](#Hypothesis-Testing)
+    - [Key Documents](#Key-Documents)
+    - [Findings](#Findings)
+    - [Over All Map](#Over-All-Map)
+    - [City and Hospital Data](#City-and-Hospital-Data)
+    - [Coding Style](#Coding-Style)
+    - [API Calls](#API-Calls)
+    - [Coding Documentation](#Coding-Documentation)
+  - [Authors](#Authors)
+  - [Git Version Workflow](#Git-Version-Workflow)
+  - [Acknowledgments](#Acknowledgments)
 
 # Team 2 Project 2
 
@@ -41,13 +42,13 @@ The following data sets were used throughout the project.
 
 ### Over All Map
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage1.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage1.png)](Images/siteImage1.png?raw=true)
 
 ### City and Hospital Data
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage2.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage2.png)](Images/siteImage2.png?raw=true)
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage3.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage3.png)](Images/siteImage3.png?raw=true)
 
 
 ### Coding Style
