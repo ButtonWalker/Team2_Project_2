@@ -4,6 +4,7 @@
 ## Table of Contents
 
 - [Team 2 Project 2](#Team-2-Project-2)
+    - [Introduction](#Introduction)
     - [Purpose of the Analysis](#Purpose-of-the-Analysis)
     - [Hypothesis Testing](#Hypothesis-Testing)
     - [Key Documents](#Key-Documents)
