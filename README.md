@@ -20,6 +20,7 @@
 
 # Team 2 Project 2
 
+# Introduction
 While the decision to relocate and concur a new city is exciting, it can also be a daunting prospect with so many factors to consider when determining where to live.  The timing of this project is spot on as one of our team members is in the process of finding a new city to relocate and call home. As a team we decided to offer our help by developing a location-based analytics app that will help alleviate the burden by allowing the user to eliminate the guesswork and make data driven decisions based on customizable criteria that visualized the results in an interactive dashboard.
 In parallel, we will be telling a tale of three very different cities.  Our goal is to provide meaningful insights and highlight the underlying data which contributes to what is expected to be a stark contrast between the selected cities of San Francisco, Dallas, and Jackson. 
 
