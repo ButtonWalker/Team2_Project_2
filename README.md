@@ -29,7 +29,7 @@ In parallel, we will be telling a tale of three very different cities.  Our goal
 The objective of Project 2 is to use the selected data for the three selected cities (Dallas, Jackson and San Francisco) to tell a story through data visualizations of the users’ interaction exploring the data themselves. Our purpose is to allow the user to select a city of interest (move to city) and choose from a list of given criteria that will return the results in a graphical visualization of the comparative underlying data. Through this interactive experience the user will be able to make a decision on the best city to relocate based on their chosen criteria. 
  
 ### Project Requirements
-1.	Visualization had to include:
+1. Visualization had to include:
 
 a.	Python Flask – powered restful API
 b.	HTML/CSS
