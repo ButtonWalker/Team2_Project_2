@@ -143,13 +143,7 @@ Name Bugs (BugKW01) feature number and bug number to match
 ```
 ## Acknowledgments
 Giving credit to those who helped
-```sh
-Hat tip to anyone whose code was used
-* Medium
-Inspiration
-* Kaggle
-etc
-```
+
 Special thanks go out to KaRi for going over and beyond to bring this project to completion.  KaRi was the heavy hitter and without his dedication, determination, drive and coding skills this would not have been possible.  Thanks go out to Hao for whom this project is dedicated as she leaves us to relocate to San Francisco.  Hao was the master behind the extraction, transforming and loading of the data.  Jason lent his expertise to the front end side and provides the images to go along.  
 
 Thanks to the Graham, Alexander and Guy for all the help in getting the codes to work and for your valuable inputs.
