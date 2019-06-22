@@ -139,8 +139,8 @@ function createMap(citypoints) {
 
  // Create our map, giving it the darkmap and citypoints layers to display on load
  var myMap = L.map("map-id", {
-  center: [32.7767, -96.7970],
-  zoom: 4,
+  center: [39.8283, -98.5795],
+  zoom: 5,
   layers: [darkmap, citypoints]
   });
 
