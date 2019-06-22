@@ -6,8 +6,7 @@
 - [Team 2 Project 2](#Team-2-Project-2)
     - [Introduction](#Introduction)
     - [Purpose of the Analysis](#Purpose-of-the-Analysis)
-    - [Project Requirements](#Project-Requirements)
-    - [Key Documents](#Key-Documents)
+    - [Project Requirements](#Project-Requirements)    
     - [Results](#Results)
     - [Over All Map](#Over-All-Map)
     - [City and Hospital Data](#City-and-Hospital-Data)
@@ -50,11 +49,9 @@ d.	Thick server that performs multiple manipulations of data in a database prior
 6.	Final visualization of at least three views
 
 
-### Key Documents
-
 The following data sets were used throughout the project.
 
-* Clean Up!!!!!!!!!!!
+
 
 ### Observations
 Based on the crime comparison analysis of the three cities, it was noted that Dallas has the highest crime rate and Jackson with the lowest.
@@ -81,8 +78,15 @@ The cost of healthcare is fairly similar between cities ranging from a high of $
 
 ### Coding Style
 
-VS Code was the primary coding enviorment.
-JavaScript was the primary language
+The following sources and tools were used: 
+	Attom Data Solutions and CityData websites were used to obtain the source data 
+	Pandas Library for manipulation and analysis of the source data; 
+	Jupyter Notebook and Visual Studio Code (IDE) to write the codes 
+	JavaScript was the primary language
+	SQLAlchemy an object relational mapping tool used to map the data to SQLlite database for storing the datato run where queries. 
+	Leaflet Js was use for markers and custom masters
+	Ajax to convert multiple datasets in real time
+	Github a web-based hosting service used as the repository
 
 List of dependencies:
 ```sh
