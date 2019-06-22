@@ -33,6 +33,7 @@ function updatePlotly(newdata) {
 
 // Get new data whenever the dropdown selection changes
 function getData(dataset) {
+  console.log("parameter is selected", dataset);
   if (dataset === 'defaultvalue') {
     var datause = [0, 0, 0];
     updatePlotly(datause);
@@ -41,6 +42,7 @@ function getData(dataset) {
   else {
     para_name = dataset;
     var datause = [];
+    console.log("next step should be getting citydata.json");
     d3.json("/static/dataset/citydata.json", function(data) {
       console.log("newdata", data[dataset]);
       datause.push(data[dataset]['Dallas']);
