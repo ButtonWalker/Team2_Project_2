@@ -16,7 +16,7 @@
 * [Authors](#authors)
 * [Acknowledgments](#acknowledgments)
 
-# Team 3 Project 1
+# Team 2 Project 2
 
 Team 3 picked a project to uncover patterns in parking activity around the city of Los Angeles. The first purpose was to examine a relationship between the makes of vehicles and number of parking citations. The second purpose was to examine a relationship between the colors of vehicles and parking citations.
 
@@ -24,84 +24,63 @@ Team 3 picked a project to uncover patterns in parking activity around the city 
 
 We have two main purposes of the analysis:
 
-* The first purpose is to examine if a relationship exists between vehicle make and parking citations.
-* The second purpose is to examine if a relationship exists between vehicle color andd parking citations.
-* The team will examine and plot citation locations to evaluate a possible correlation between parking citations and the surrounding area
-    * Restaurant
+* Clean Up!!!!!!!!!!!
  
 ### Hypothesis Testing
 * Purpose One
-   * Null hypothesis: there is no significant relationship between the make of cars and the number of citations. 
-   * Alternate hypothesis: there is a significant relationship between the make of cars and the number of citations.
-* Purpose Two
-   * Null Hypotheses: there is no significant relationship between color of the car and the number of parking citations.
-   * Alternate hypothesis: there is a significant relationship between color of the car and the number of parking citations. 
-* The chi-square value of 25599 at a confidence level of 95% exceeds the CV of 7.8114. We, therefore, conclude that the difference between the two groups is stastically significant. Also, the p-value was zero indicates that the null phyptheses is false. We reject the null hypothesis.
+   * Clean Up!!!!!!!!!!!
 
 ### Key Documents
 
 The following data sets were used throughout the project.
 
-* a dataset was downloaded from the City of Los Angeles for the months of May through July 2018 in csv format.
-* A dataset from the California DMV was separately analyzed to check for normalization
-* Folium was used and various plug-ins were used to create interactive heat maps and location markers
+* Clean Up!!!!!!!!!!!
 
 ### Findings
-* Toyota tops the list of the make of vehicles that received the most citation at 74K followed by Honda at 47K and Ford at 35K. Nissan was fourth in the list at 31K and Chevy ranked no.5 at 27K. 
-* White colored vehicles received the most citations followed very closely by black and gray colored vehicle. Silver ranked at no.4 and blue ranked no. 5. 
+* Clean Up!!!!!!!!!!!
 
-### Citation Location Clusters
+### Over All Map
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team3_Project1/blob/master/CitaLocationMap.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage1.png)]()
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team3_Project1/blob/master/CitaHeatMap.png)]()
+### City and Hospital Data
 
-### Restaurants Location Clusters
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage2.png)]()
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team3_Project1/blob/master/RestLocations.png)]()
-
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team3_Project1/blob/master/RestHeatMap.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project_2/blob/master/Images/siteImage3.png)]()
 
 
 ### Coding Style
 
-Jupyter notebooks was used. 
+VS Code was the primary coding enviorment.
+JavaScript was the primary language
 
 List of dependencies:
 ```sh
-   import matplotlib.pyplot as plt
-   import pandas as pd
-   import numpy as np
-   import requests
-   import time
-   import scipy.stats as stats
-   import folium
-   import folium.plugins as plugins
-   from folium.plugins import MarkerCluster
-   from folium.plugins import FastMarkerCluster
-   import pyproj
-   import sys
+   pip install gunicorn
+   pip install psycopg2
+   pip install flask
+   pip install flask-sqlalchemy
+   pip install pandas
 ```
 ### API Calls
 
-[City of los Angeles](https://data.lacity.org/resource/8yfh-4gug.json)
+[ATTOM Data Point](https://api.gateway.attomdata.com/propertyapi/v1.0.0/property/detail?id=1234)
 
 ### Coding Documentation
-[gmaps](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html)
+[Mapbox](https://www.mapbox.com/)
 
-[Citipy](https://github.com/wingchen/citipy)
-
-[Google API](https://developers.google.com/places/web-service/search)
-
-[Folium Mapping](https://python-visualization.github.io/folium/)
+[Attom](https://api.developer.attomdata.com/home)
 
 ## Authors
 
-Ka-Ri Walker - Initial work - [SMU DataTeam 3](https://github.com/ButtonWalker)
+Ka-Ri Walker - Initial work - [SMU DataTeam 2](https://github.com/ButtonWalker)
 
-Sujita Kapali - Inital Work - [SMU DataTeam 3](https://github.com/SujiKap)
+Hao Bai - Inital Work - [SMU DataTeam 2](https://github.com/haobaids)
 
-Sisay Teketele - Inital Wark - [SMU DataTeam 3](https://github.com/sisayyt)
+Jonas Haskins - Inital Wark - [SMU DataTeam 2](https://github.com/jhhaskins)
+
+Escoffrey Thomas - Inital Wark - [SMU DataTeam 2](https://github.com/Escoffrey)
 
 ## Git Version Workflow
 
