@@ -41,7 +41,7 @@ function getData(dataset) {
   else {
     para_name = dataset;
     var datause = [];
-    d3.json("/resources/static/dataset/alldata.JSON", function(data) {
+    d3.json("resources/static/dataset/citydata.JSON", function(data) {
       console.log("newdata", data[dataset]);
       datause.push(data[dataset]['Dallas']);
       datause.push(data[dataset]['Jackson']);
@@ -72,7 +72,7 @@ function buildCharts(sample) {
       break;
   }
   console.log('selected city: ', usecity);
-  d3.json("/resources/static/dataset/alldata.JSON", function(data) {
+  d3.json("resources/static/dataset/alldata.JSON", function(data) {
     console.log('data: ', data)
     // console.log("parameter: ", para_name);
     console.log("bubbledata", data[para_name]);
