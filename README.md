@@ -1,4 +1,4 @@
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project2/blob/master/resources/Images/geoSpatialVis.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/Team2_Project2/blob/master/resources/Images/geoSpatialVis.png)](Images/geoSpatialVis.png?raw=true)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
