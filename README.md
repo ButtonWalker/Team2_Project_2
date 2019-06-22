@@ -107,7 +107,23 @@ List of dependencies:
 
 [Attom](https://api.developer.attomdata.com/home)
 
-### Coding Documentation
+### Challenges and Limitations
+The following are limitations encountered:
+
+From Project Visualization
+   Time and experience with the data and creating the visualization
+   The source datasets obtained and used were limited to three cities. 
+   Inconsistencies in the data type, style and format as a result of the different sources from which the data was obtained.   
+   Working with two or more Json files with different formats. 
+   Rendering to Heroku was an issue so Github was used as the host
+   Getting the two custom icons to rendered on the same map overlay using two independent dataset
+
+From General Visualization
+
+ 	While data visualizations can be generated in real-time, they do not provide any explanations. 
+ 	Different users confronted with the same data visualization may not necessarily draw the same conclusion but interpret it differently,   depending on their previous experiences and particular level of expertise.
+ 	Graphics are great for conveying simple ideas quickly; however, at times they might not be enough and are not able to express a         complex situation. Sometimes the visualization doesn’t tell the full or underlying stories and as such, language is required to make     sure the end user really understands.
+
 
 
 
