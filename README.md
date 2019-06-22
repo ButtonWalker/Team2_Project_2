@@ -8,12 +8,14 @@
     - [Purpose of the Analysis](#Purpose-of-the-Analysis)
     - [Project Requirements](#Project-Requirements)
     - [Key Documents](#Key-Documents)
-    - [Findings](#Findings)
+    - [Results](#Results)
     - [Over All Map](#Over-All-Map)
     - [City and Hospital Data](#City-and-Hospital-Data)
     - [Coding Style](#Coding-Style)
     - [API Calls](#API-Calls)
+    - [Observation](#Observation)
     - [Coding Documentation](#Coding-Documentation)
+    - [Challenges and Limitation](#Challenges-And-Limitation)
   - [Authors](#Authors)
   - [Git Version Workflow](#Git-Version-Workflow)
   - [Acknowledgments](#Acknowledgments)
@@ -54,8 +56,17 @@ The following data sets were used throughout the project.
 
 * Clean Up!!!!!!!!!!!
 
-### Findings
-* Clean Up!!!!!!!!!!!
+### Observations
+Based on the crime comparison analysis of the three cities, it was noted that Dallas has the highest crime rate and Jackson with the lowest.
+
+San Francisco has the  highest average home price
+
+Cost of owning a house appears to be consistent across all three cities
+
+The number of people who have achieve a Bachelor’s Degree was approximately 3.5 times higher for San Francisco as compare to Jackson and approximately 2 times more than Dallas.
+
+The cost of healthcare is fairly similar between cities ranging from a high of $139 for San Francisco to a low of $78.5 for Jackson
+
 
 ### Over All Map
 
@@ -85,10 +96,16 @@ List of dependencies:
 
 [ATTOM Data Point](https://api.gateway.attomdata.com/propertyapi/v1.0.0/property/detail?id=1234)
 
+### Data Extraction
+
 ### Coding Documentation
 [Mapbox](https://www.mapbox.com/)
 
 [Attom](https://api.developer.attomdata.com/home)
+
+### Coding Documentation
+
+
 
 ## Authors
 
