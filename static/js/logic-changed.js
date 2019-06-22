@@ -1,6 +1,6 @@
 // Store API cityLink
-const cityLink = "resources/static/dataset/full-data-geojson.js"
-const hospitalLink = "resources/static/dataset/hospitals.js"
+const cityLink = "/static/dataset/full-data-geojson.js"
+const hospitalLink = "/static/dataset/hospitals.js"
 
 var cityDataLoaded = false;
 var hospDataLoaded = false;
@@ -70,7 +70,7 @@ function combinedFeatures(combinedData) {
   });
 
   var hospitalIcon = L.icon({
-    iconUrl: "resources/static/dist/img/redHospital.png",
+    iconUrl: "/static/dataset/redHospital.png",
     iconSize: [25, 25],    
   });
 
