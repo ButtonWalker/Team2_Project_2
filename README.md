@@ -117,9 +117,9 @@ Ka-Ri Walker - Initial work - [SMU DataTeam 2](https://github.com/ButtonWalker)
 
 Hao Bai - Inital Work - [SMU DataTeam 2](https://github.com/haobaids)
 
-Jonas Haskins - Inital Wark - [SMU DataTeam 2](https://github.com/jhhaskins)
+Jonas Haskins - Inital Work - [SMU DataTeam 2](https://github.com/jhhaskins)
 
-Escoffrey Thomas - Inital Wark - [SMU DataTeam 2](https://github.com/Escoffrey)
+Escoffrey Thomas - Inital Work - [SMU DataTeam 2](https://github.com/Escoffrey)
 
 ## Git Version Workflow
 
