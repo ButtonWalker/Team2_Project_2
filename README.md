@@ -6,7 +6,7 @@
 - [Team 2 Project 2](#Team-2-Project-2)
     - [Introduction](#Introduction)
     - [Purpose of the Analysis](#Purpose-of-the-Analysis)
-    - [Hypothesis Testing](#Hypothesis-Testing)
+    - [Project Requirements](#Project-Requirements)
     - [Key Documents](#Key-Documents)
     - [Findings](#Findings)
     - [Over All Map](#Over-All-Map)
